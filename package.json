@@ -1,0 +1,1 @@
+{"name":"creator-delivery-visibility","private":true,"type":"module","scripts":{"start":"node --loader ts-node/esm src/server.ts","test":"node --loader ts-node/esm src/creator_delivery.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"zod":"^3.23.8","typescript":"^5.6.3","ts-node":"^10.9.2","@types/node":"^22.0.0"}}
